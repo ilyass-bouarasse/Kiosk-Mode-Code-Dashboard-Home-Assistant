@@ -18,9 +18,9 @@ For a detailed walkthrough, check out the video [Watch tutorial](https://youtu.b
 
 If you'd like to support my work or reach out, you can find me here:
 
-- [![Buy Me a Coffee](https://img.icons8.com/ios-glyphs/30/FFDD00/coffee.png) Buy Me a Coffee](https://buymeacoffee.com/ilyassbouad)
--  [WhatsApp](https://wa.me/212630635482)
--  [Email](https://mail.google.com/mail/?view=cm&fs=1&to=ilyassbouarasse2004@gmail.com)
+- [Buy Me a Coffee ![Coffee Icon](https://img.icons8.com/ios-glyphs/20/FFDD00/coffee.png)](https://buymeacoffee.com/ilyassbouad)
+- 👉 [WhatsApp](https://wa.me/212630635482)
+- 👉 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=ilyassbouarasse2004@gmail.com)
 
 
 
