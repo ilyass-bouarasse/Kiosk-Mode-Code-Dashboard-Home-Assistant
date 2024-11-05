@@ -10,4 +10,6 @@ This tutorial provides a quick guide on how to hide the header bar of your Home 
 5 example  192.168.1.100:8123/dashboard/home?disable_km
 
 Watch the Video Tutorial
-For a detailed walkthrough, check out the video tutorial: Watch on YouTube.
+For a detailed walkthrough, check out the video [Watch tutorial](https://youtu.be/FUYkH9g8dZE)
+
+
