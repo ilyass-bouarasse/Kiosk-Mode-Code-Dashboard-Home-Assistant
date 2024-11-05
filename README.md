@@ -14,4 +14,12 @@ This tutorial provides a quick guide on how to hide the header bar of your Home 
 Watch the Video Tutorial
 For a detailed walkthrough, check out the video [Watch tutorial](https://youtu.be/FUYkH9g8dZE)
 
+# Support Me
+
+If you'd like to support my work or reach out, you can find me here:
+
+- [Buy Me a Coffee](https://buymeacoffee.com/ilyassbouad)
+- [WhatsApp](https://wa.me/212630635482)
+- [Email](https://mail.google.com/mail/?view=cm&fs=1&to=ilyassbouarasse2004@gmail.com)
+
 
