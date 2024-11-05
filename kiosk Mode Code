@@ -1,1 +1,9 @@
-test 
+Hide the Header Bar in Home Assistant with Kiosk Mode
+configuration code:
+
+# Example configuration for Kiosk Mode
+
+kiosk_mode:
+  hide_header: true
+  
+views:
