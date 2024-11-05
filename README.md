@@ -18,8 +18,8 @@ For a detailed walkthrough, check out the video [Watch tutorial](https://youtu.b
 
 If you'd like to support my work or reach out, you can find me here:
 
-- [Buy Me a Coffee](https://buymeacoffee.com/ilyassbouad)
-- [WhatsApp](https://wa.me/212630635482)
-- [Email](https://mail.google.com/mail/?view=cm&fs=1&to=ilyassbouarasse2004@gmail.com)
+- [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=ilyassbouad&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/ilyassbouad)
+- 👉 [WhatsApp](https://wa.me/212630635482)
+- 👉 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=ilyassbouarasse2004@gmail.com)
 
 
